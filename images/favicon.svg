@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Mengxu Jiang</title>
+  <rect width="64" height="64" rx="12" fill="#1f2937"/>
+  <path d="M15 46V18h7l10 15 10-15h7v28h-7V30L34 42h-4l-8-12v16h-7Z" fill="#f8fafc"/>
+  <path d="M45 18h7v20c0 6-4 10-10 10-4 0-7-1-10-4l4-5c2 2 3 3 5 3 3 0 4-2 4-5V18Z" fill="#facc15"/>
+</svg>
