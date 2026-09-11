@@ -1,0 +1,25 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+    <h2 class="archive__item-title" itemprop="headline">{{ post.title }}</h2>
+
+    {% if post.venue %}
+      <p><strong>Venue:</strong> <i>{{ post.venue }}</i></p>
+    {% endif %}
+
+    {% if post.year %}
+      <p><strong>Year:</strong> {{ post.year }}</p>
+    {% elsif post.date %}
+      <p><strong>Year:</strong> {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+    {% endif %}
+
+    {% if post.authors %}
+      <p><strong>Authors:</strong> {{ post.authors }}</p>
+    {% endif %}
+
+    {% if post.paperurl %}
+      <p><strong>Paper:</strong> <a href="{{ post.paperurl }}">Original</a></p>
+    {% endif %}
+  </article>
+</div>
