@@ -39,28 +39,28 @@
 ;
 
 .publication-entry {
-  margin: 0.9em 0 1.35em;
+  margin: 0.75em 0 1.25em;
 }
 
 .publication-entry p {
-  margin: 0.12em 0;
+  margin: 0.08em 0;
 }
 
 .publication-title {
-  font-size: 1em;
-  font-weight: 700;
+  font-size: 0.96em;
+  font-weight: 600;
   line-height: 1.35;
 }
 
 .publication-tag {
   color: var(--global-link-color);
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .publication-authors,
 .publication-venue,
 .publication-links {
-  font-size: 0.9em;
+  font-size: 0.88em;
   line-height: 1.45;
 }
 

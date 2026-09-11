@@ -5,10 +5,10 @@ category: conferences
 permalink: /publication/dynamic-graph-indexing-label-filtered-ann
 excerpt: "Dynamic graph indexing for label-filtered approximate nearest neighbor search."
 date: 2027-01-01
-venue: "Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD)"
+venue: "SIGMOD"
 year: "2027"
 tag: "SIGMOD'27"
-authors: "Mengxu Jiang, Zhi Yang, Fangyuan Zhang, Yin Yang, and Sibo Wang"
+authors: "<strong>Mengxu Jiang</strong>, Zhi Yang, Fangyuan Zhang, Yin Yang, and Sibo Wang"
 paperurl:
 ---
 

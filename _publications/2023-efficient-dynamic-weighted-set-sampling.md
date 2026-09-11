@@ -5,10 +5,10 @@ category: conferences
 permalink: /publication/efficient-dynamic-weighted-set-sampling
 excerpt: "Efficient dynamic weighted set sampling and its extension."
 date: 2023-09-01
-venue: "Proceedings of the VLDB Endowment (PVLDB)"
+venue: "PVLDB"
 year: "2023"
 tag: "PVLDB'23"
-authors: "Fangyuan Zhang, Mengxu Jiang, and Sibo Wang"
+authors: "Fangyuan Zhang, <strong>Mengxu Jiang</strong>, and Sibo Wang"
 paperurl: "https://doi.org/10.14778/3617838.3617840"
 ---
 
