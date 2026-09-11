@@ -20,9 +20,3 @@ Research Interests
 * Filtered vector search
 * Dynamic indexing
 * High-dimensional vector data management
-
-News
-======
-
-* **Jul. 2026:** Started as a Research Intern at Microsoft Research Asia, System Research Group.
-* **2025:** Two papers on dynamic indexing for filtered approximate nearest neighbor search were accepted to SIGMOD 2025.
