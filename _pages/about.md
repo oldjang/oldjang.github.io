@@ -41,9 +41,7 @@ Research Interests
 ======
 
 * Approximate nearest neighbor search
-* Filtered vector search
-* Dynamic indexing
-* High-dimensional vector data management
+* Filtered and dynamic vector indexing
 
 <span id="awards"></span>
 
