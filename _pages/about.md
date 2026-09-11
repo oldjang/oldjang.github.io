@@ -20,13 +20,3 @@ Research Interests
 * Filtered vector search
 * Dynamic indexing
 * High-dimensional vector data management
-
-Experience
-======
-
-* **Research Intern**, Microsoft Research Asia (MSRA), System Research Group, Jul. 2026 -- Present  
-  Selected for the Honorary Scholars Talent Program; exploring memory systems for long-horizon AI agents.
-* **Research Intern**, Alibaba Cloud, ADBPG Team, Jul. 2025 -- Dec. 2025  
-  Integrated NVIDIA's GPU ANNS library cuVS into ADBPG and developed a GPU resource management server for efficient GPU resource sharing across processes.
-* **Research Assistant**, The Chinese University of Hong Kong, Aug. 2022 -- Aug. 2023  
-  Contributed to the research and implementation of an efficient dynamic weighted set sampling algorithm, published in VLDB 2023.
