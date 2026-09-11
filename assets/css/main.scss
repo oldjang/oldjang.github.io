@@ -37,3 +37,33 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.publication-entry {
+  margin: 0.9em 0 1.35em;
+}
+
+.publication-entry p {
+  margin: 0.12em 0;
+}
+
+.publication-title {
+  font-size: 1em;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.publication-tag {
+  color: var(--global-link-color);
+  font-weight: 700;
+}
+
+.publication-authors,
+.publication-venue,
+.publication-links {
+  font-size: 0.9em;
+  line-height: 1.45;
+}
+
+.publication-authors {
+  color: var(--global-text-color);
+}
