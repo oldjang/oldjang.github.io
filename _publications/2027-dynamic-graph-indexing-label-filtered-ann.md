@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Graph Indexing for Label-Filtered Approximate Nearest Neighbor Search"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/dynamic-graph-indexing-label-filtered-ann
 excerpt: "Dynamic graph indexing for label-filtered approximate nearest neighbor search."
 date: 2027-01-01

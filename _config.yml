@@ -88,8 +88,6 @@ publication_category:
     title: 'Conference Papers'
   journals:
     title: 'Journal Articles'
-  manuscripts:
-    title: 'Manuscripts'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
