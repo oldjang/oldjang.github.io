@@ -16,7 +16,7 @@ Then push this folder to that repository. In GitHub, open `Settings` -> `Pages` 
 
 - `_config.yml`: site title, URL, sidebar profile, email, GitHub, Google Scholar.
 - `_pages/about.md`: homepage text.
-- `_pages/cv.md`: CV page.
+- `_pages/experience.md`: experience page.
 - `_publications/`: publication entries.
 
 ## Local preview

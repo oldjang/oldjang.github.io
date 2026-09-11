@@ -1,7 +1,7 @@
 ---
 title: "Efficient Dynamic Weighted Set Sampling and Its Extension"
 collection: publications
-category: journals
+category: conferences
 permalink: /publication/efficient-dynamic-weighted-set-sampling
 excerpt: "Efficient dynamic weighted set sampling and its extension."
 date: 2023-09-01
