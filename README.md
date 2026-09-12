@@ -4,13 +4,13 @@ This repository contains Mengxu Jiang's academic homepage, based on the [academi
 
 ## Publish on GitHub Pages
 
-Create a public repository named:
+Configured homepage URL:
 
 ```text
-oldjang.github.io
+https://mengxujiang.github.io
 ```
 
-Then push this folder to that repository. In GitHub, open `Settings` -> `Pages` and publish from the `main` branch.
+Push this folder to the GitHub Pages repository. In GitHub, open `Settings` -> `Pages` and publish from the `main` branch.
 
 ## Main files
 
