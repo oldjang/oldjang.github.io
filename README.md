@@ -7,7 +7,7 @@ This repository contains Mengxu Jiang's academic homepage, based on the [academi
 Configured homepage URL:
 
 ```text
-https://mengxujiang.github.io
+https://oldjang.github.io
 ```
 
 Push this folder to the GitHub Pages repository. In GitHub, open `Settings` -> `Pages` and publish from the `main` branch.
